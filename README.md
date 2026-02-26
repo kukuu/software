@@ -14,7 +14,7 @@ JASON Excel Converter - Full-Stack-Solution.  Scalable and modular script that a
 - Preview the result instantly
 - Download or continue editing
 
-### Features:
+### Features: 
 
 ✅ Fully modular.
 
