@@ -105,11 +105,19 @@ A Net Zero initiative, SPYDER uses  AI-driven analytics and user-friendly comput
 1. https://github.com/kukuu/SPYDER/blob/main/spyder-overview.md
 2. https://www.energytariffscheck.com/
 
+
+# Love Joint
+
+An e-commerce platform focused on "Nutraceuticals" and "Lifestyle & Healthy Living Boosters," targeting the growing market for wellness and dietary supplements: https://www.lovejoint.store/
+https://www.lovejoint.store/
+
 ## "Ask JIM" - AI Agent Trusted Companion 
 
 A unique custom domain-based Artificial Intelligence, Machine Learning, RAG and Large Language Model trusted companion with all the information you need about energy savings, consumption and social impact. **JIM** combines real-time meter data analysis with comprehensive energy market intelligence to deliver personalised, actionable insights that save you money while reducing your environmental footprint.
 
 https://github.com/kukuu/ask-JIM/blob/main/README.md
+
+
 
 ## Obsolescence Enterprise Management System (Aerospace)
 
@@ -144,7 +152,4 @@ Documentation: https://github.com/kukuu/IIoT-Digital-Twin-Simulation
 
 
 
-# Love Joint
 
-
-https://www.lovejoint.store/
