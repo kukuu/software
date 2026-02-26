@@ -10,7 +10,7 @@ JASON Excel Converter - Full-Stack-Solution.  Scalable and modular script that a
 
 - Upload your JSON or Excel file via drag & drop
 - Edit input/output paths if needed
-- Convert with one click
+- Convert with one click 
 - Preview the result instantly
 - Download or continue editing
 
