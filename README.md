@@ -1,4 +1,4 @@
-# Market Place Software
+# Software
 
 _Author: Alexander Adu-Sarkodie_
 
