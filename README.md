@@ -14,7 +14,7 @@ JASON Excel Converter - Full-Stack-Solution.  Scalable and modular script that a
 - Preview the result instantly
 - Download or continue editing
 
-## Features:
+### Features:
 
 ✅ Fully modular.
 
@@ -69,6 +69,39 @@ Download buttons appear next to JSON and Excel files when they exist
 
 ✅ Responsive design for mobile devices
 
-## Vault : 
+### Vault : 
 
 - https://github.com/kukuu/JSON-Excel-Converter-Full-Stack-Solution (*** **PRIVATE**)
+
+
+
+## AZZOTTO Movies
+
+Free Streaming Service -  https://www.azzottomovies.com/: 
+
+Azzotto Movies is a sophisticated, streaming and entertainment service engineered to cater to a global audience with a specialized focus on regional cinema. The platform demonstrates advanced web development capabilities, featuring a responsive, user-friendly interface built with modern frameworks to ensure a seamless experience across all devices.
+
+Its core functionality is driven by a structured, data-centric architecture, allowing for dynamic content curation and efficient management of a diverse media library. 
+
+Key features include:
+
+**Engagement & Marketing Tools:** Integrated systems like a Newsletter service to build community and drive user retention through direct communication.
+
+**Content Previews:** A dedicated Trailers section to enhance discoverability and fuel user anticipation, acting as a critical marketing funnel within the platform.
+
+**Scalable Infrastructure:** The site is built for performance and scalability, capable of handling media streaming demands and a growing user base without compromising on speed or reliability.
+
+  - _Modules_:
+    - https://www.azzottomovies.com/movie/434853
+    - https://www.azzottomovies.com/lounge
+    - JUKEBOX: Selection of GenXZ music
+    - Global Music and Sports Events 2026
+    - Pletora of Galleries and Trends
+
+## SPYDER
+
+A Net Zero initiative, SPYDER uses  AI-driven analytics and user-friendly compute engine tools to compare tariffs, track consumption, simulate scenarios, predict outcomes, enable forecasting, facilitate predictive maintenance, and recommend cost-effective renewable energy options by saving on energy bills. It integrates dynamic carbon footprint tracking, personalised energy-saving strategies, and compliance frameworks into a scalable platform - helping users align sustainability goals with practical, measurable actions. Its proven track record is honed in applying AI to core business problems. SPYDER uses Machine Learning, Artificial Intelligence, Large Language Models and Retrieve Augmentation Generators algorithms to interpret complex energy tariffs, automating a manual consultancy process and enabling customers to self-serve the best pricing, thereby solving a direct business and customer challenge.
+
+1. https://github.com/kukuu/SPYDER/blob/main/spyder-overview.md
+2. https://www.energytariffscheck.com/
+
