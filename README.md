@@ -110,3 +110,41 @@ A Net Zero initiative, SPYDER uses  AI-driven analytics and user-friendly comput
 A unique custom domain-based Artificial Intelligence, Machine Learning, RAG and Large Language Model trusted companion with all the information you need about energy savings, consumption and social impact. **JIM** combines real-time meter data analysis with comprehensive energy market intelligence to deliver personalised, actionable insights that save you money while reducing your environmental footprint.
 
 https://github.com/kukuu/ask-JIM/blob/main/README.md
+
+## Obsolescence Enterprise Management System (Aerospace)
+
+This BOM Compliance System addresses the critical challenge of component obsolescence in manufacturing and construction industries. The platform solves the expensive and time-consuming problem of electronic components and building materials becoming obsolete, which can halt production lines and delay projects costing companies millions. By automatically identifying at-risk components and providing compliant substitutes, the system prevents production stoppages and ensures regulatory compliance throughout product lifecycles.
+
+The solution leverages a data science modern technology stack with C# .NET 8 for the backend API, PostgreSQL with Supabase for the comprehensive materials database, and React for the responsive frontend interface. It incorporates advanced data science capabilities through machine learning models that extract component metadata from PDF datasheets, while LLM and RAG pipelines intelligently search for alternative components when originals are discontinued. The system includes robust error handling and role-based authentication, distinguishing between Data Analysts with read-only access and Senior Managers with full read-write privileges.
+
+Algorithm Workflow:
+The system implements a sophisticated four-tier decision tree that sequentially searches internal databases, vendor APIs, Vector Search - LLM+RAG pipelines, and fallback fuzzy matching to ensure optimal component substitution with comprehensive metadata extraction including production years, compliance status, vendor pricing, and stock availability.
+
+https://github.com/kukuu/BOM-Compliance-repo (**PRIVATE**)
+
+
+# Conveyor Belt Simulation
+
+The Conveyor Belt simulation was developed using systematic engineering principles, beginning with modular decomposition of the core components. The solution architecture separates concerns between the belt mechanics (conveyor.js), worker coordination (workers.js), and hardware interface (gpio.js), following industrial control system design patterns.
+
+The algorithm employs discrete time-step simulation with three key functions:simulateStep() handles belt movement using array rotation logic, pickOrPlace() implements worker decision-making with finite state machine principles, and calculateEfficiency() applies lean manufacturing metrics to evaluate performance. This modular approach enables parallel development and simplifies maintenance through encapsulated functionality.
+
+Leveraging a transformer-based agentic architecture, my full-stack engineering proficiency in software and mechanical engineering systems background enabled a holistic systems - thinking approach, uniquely positioning me to integrate cross - disciplinary insights and deliver an architecturally robust, industrially - grounded solution.
+
+
+
+<!-- https://github.com/kukuu/raspberry-pie-digital/blob/main/README.md -->.
+
+Documentation: https://github.com/kukuu/IIoT-Digital-Twin-Simulation 
+
+<!--Snapshots: https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots.md -->
+
+
+
+
+
+
+# Love Joint
+
+
+https://www.lovejoint.store/
